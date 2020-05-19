@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=roboto:100,200,300,400,500,600,700|Open Sans:100,200,300,400,500,600,700 rel="stylesheet'); 
+body {font-family: 'Roboto', sans-serif;}
+
+/*-------------Nav bar styling-------------*/
+
+.navbar.navbar {
+    margin:0 auto; 
+    width: 65% !important;/
+}
+
+.navbar.navbar .container
+{
+width:100%!important;
+ }
+
+/*-------------Nav bar styling-------------*/
+
+
+ /*---------footer styling-----------------*/
+
+
+html {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Avoid the IE 10-11 `min-height` bug. */
+}
+.content {
+  flex: 1 0 auto; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
+  padding: 10px;
+}
+.footer {
+  flex-shrink: 0; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
+  padding: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font: 16px Sans-Serif;
+}
+h1 {
+  margin: 0 0 20px 0;
+}
+p {
+  margin: 0 0 20px 0;
+}
+.footer {
+  background: white;
+  color: white;
+}
+
+.footer {
+    margin:0 auto; 
+    width: 65% !important;/
+}
+
+.footer .container
+{
+width:100%!important;
+ }
+
+/*---------footer styling-----------------*/
+}
+
+  /*---------About Us-----------------*/
+
+
+
+/*---------About US-----------------*/
+
+
+
+ /*---------Footer Styling-----------------*/
+
+.footer {
+    margin:0 auto; 
+    width: 65% !important;/
+    display:block;
+
+}
+
+.footer .container
+{
+width:100%!important;
+ }
+
+ .copyright {
+  color: #A9A9A9;
+}
+
+/*---------Footer Styling-----------------*/
+
+
+
+ /*-------------------------------Gallery-------------------------*/
+
+body {
+    background-color: #fff;
+    min-height: 100vh;
+    font: normal 16px sans-serif;
+}
+
+.gallery-heading{
+    color: #A9A9A9;
+}
+.gallery-container h1 {
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Droid Sans', sans-serif;
+    font-weight: bold;
+    color: #58595a;
+}
+
+.gallery-container p.page-description {
+    text-align: center;
+    margin: 30px auto;
+    font-size: 18px;
+    color: #85878c;
+}
+
+/* Styles for the gallery */
+
+.tz-gallery {
+    padding: 40px;
+}
+
+.tz-gallery .thumbnail {
+    padding: 0;
+    margin-bottom: 30px;
+    border: none;
+}
+
+.tz-gallery img {
+    border-radius: 2px;
+}
+
+.tz-gallery .caption{
+    padding: 26px 30px;
+    text-align: center;
+}
+
+.tz-gallery .caption h3 {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.tz-gallery .caption p {
+    font-size: 12px;
+    color: #7b7d7d;
+    margin: 0;
+}
+
+.baguetteBox-button {
+    background-color: transparent !important;
+}
+
+ /*-------------------------------Gallery-------------------------*/
+
+
+
+ /*-------------------------------Contact Us-------------------------*/
+
+
+}
+
+.btn-primary,
+.btn-primary:hover
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color:  #0039e6;
+    border-color:  #0039e6;
+}
+
+.contact {
+
+   
+    text-align:center;
+    color: #A9A9A9
+
+}
+
+ /*-------------------------------Contact Us-------------------------*/
+
+ .landing-page-image{
+     width: 100%;
+     object-fit: cover;
+ }
