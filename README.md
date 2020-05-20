@@ -31,7 +31,7 @@ https://github.com/7-Deuce/milestone_1/tree/master/wireframes  </p>
 **Contact**
 <p>The contact form allows the user to contact the photographe by inputting their details in the contact fields.</p>
 
-<h2>Features for the future<h2>
+<h2>Features for the future</h2>
   
 **Blog**  
 <p>A blog page would be ideal to implement for organic SEO. I know Google looks for original content and frequency of content when calculating the website's SEO score.</p>
