@@ -75,4 +75,4 @@ Deployed using terminal to GitHub. For hosting, I downloaded the website from Gi
 <p>https://bootsnipp.com/snippets/83Br - "Simlest Contact Form" by msurguy</p>
 
 <h1>Media<h1/>
-  <p>Photos are all my own work.</p>
+<p>Photos are all my own work.</p>
