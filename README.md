@@ -18,8 +18,10 @@ www.vastwavedigital.com</p>
 
 <P>The familiarty and lack of clutter should help the user to navigate to their desired destination. The navbar remains the same in all pages, operating from left to right. If the user is done browsing the gallery, the next option is About and should the images and about be of interest to the user they can make contact. At all times there are social media links displayed in the footer providing the user with multiple options to contact or choose appropriate social media platform. </p>
 
-<img src="https://github.com/7-Deuce/milestone_1/blob/master/wireframes/home.png?raw=true"></img>
-https://github.com/7-Deuce/milestone_1/tree/master/wireframes
+<p> <img src="https://github.com/7-Deuce/milestone_1/blob/master/wireframes/home.png?raw=true"></img>
+https://github.com/7-Deuce/milestone_1/tree/master/wireframes  </p>
+
+
 
 <h1>Main Features</h1>
 
