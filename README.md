@@ -1,65 +1,87 @@
-Your Project's Name
-One or two paragraphs providing an overview of your project.
+<h1>MF Photos</h1>
+<p>This is a basic and minimialist portfolio website to showcase my own photographic work. The purpose is for the user to be able to get a sample of photographic work, learn about the photographer in the "About Me" and then contact the photographer through the contact form. </p>
+ 
+ **Live Webste:**
+ https://7-deuce.github.io/index.html
 
-Essentially, this part is your sales pitch.
+<H1>UX</h1>
 
-UX
+<p>I went for a minimalist design, as the product and main focus should be the photographic work. The website should be a blank canvas, not influencing the work but complimenting it in the most neutral way possible. I chose a clean light colour palette with light grey text to help emphasise the colour in the images. </P
+
+<p>I wanted the landing page to have a large image, so the user is met with photographic work, first and foremost. This image is a clickable link to the gallery. It means the user immediately see's photographic work and doesn't need to even nativate the navbar to view the gallery. One click from the home page image brings the user to main focus of the website.</P>
+
+The website is for anyone interested in viewing photographic work (not confined to the limitations of Facebook compression and Instagram) with the option of following on social media or contacting me directly. 
+
+<p>Inspiration for this website menu structure is from 2 Wordpress websites I own and manage:</p>
+<br><p>www.kapturelab.com</br>
+www.vastwavedigital.com</p>
+
+<P>The familiarty and lack of clutter should help the user to navigate to their desired destination. The navbar remains the same in all pages, operating from left to right. If the user is done browsing the gallery, the next option is About and should the images and about be of interest to the user they can make contact. At all times there are social media links displayed in the footer providing the user with multiple options to contact or choose appropriate social media platform. </p>
+
+<img src="https://github.com/7-Deuce/milestone_1/blob/master/wireframes/home.png?raw=true"></img>
+https://github.com/7-Deuce/milestone_1/tree/master/wireframes
+
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+
+
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
-As a user type, I want to perform an action, so that I can achieve a goal.
+**As a user type, I want to perform an action, so that I can achieve a goal.
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
-Features
+<h1>Features<h1>
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+<h1>Main Features</h1>
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+**Gallery**
+<p>The galley allows the user to click on images so they enlarge. This allows the user to see the images larger, and continue to see the images larger whilest navigating through the images.</p?
 
-Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+**Contact**
+<p>The contact form allows the user to contact the photographe by inputting their details in the contact fields.</p>
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+<h2>Features for the future<h2>
+  
+**Blog**  
+<p>A blog page would be ideal to implement for organic SEO. I know Google looks for original content and frequency of content when calculating the website's SEO score.</p>
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+**Subscribe box**
+<p>Implementing a subsribe box will be fundamental to developing the website's marketing functionality. The purpose would be to collect user emails and have an API like MailChimp or SendInBlue assist with managing and storing emails for email marketing.</p> 
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+**Call to actions**
+<p>Having a call-to-action on each page will also guide the user through the websire and ultimately the sales funnel. "Subsrcribe now" "Contact us" are some of the call to actions that spring to mind.</p>
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+**Ecommerce**
+<p>A webstore to sell prints or an API for Printful so users can buy prints on merchandise in a print-on-demand basis would be a future goals.</P>
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+<h1>Technologies Used</h1>
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+<h4>Project Management Tools</h4>
+<p><a href="https://balsamiq.com/">Balsamiq</a> - for my wirframes</p>
+<p><a href="https://www.gitpod.io/">GitPod IDE</a> - as my IDE to code the website</p>
+<p><a href="https://github.com/">GitHub</a> - to deploy the website</p>
+<p><a href="https://pages.github.com/">GitHubPages</a> - to host the website</p>
 
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+<h4>HTML & CSS</h4>
+<p><a href="https://getbootstrap.com/">Bootstrap</a>For a responsive site and navbar</p>
+<p><a href="https://cdnjs.com/libraries/baguettebox.js/">Baguette Box</a> - JavaScript for gallery functionality</p>
+<p><a href="https://fontawesome.com/">Font Awesome</a> - Social media icons</p>
+<p><a href="https://code.jquery.com/">JQuery</a> - Navbar</p>
+<p><a href="https://favicon.io/">Favicon</a> - Favicon for website icon/tab icon </p>
+<p><a href="https://codebeautify.org/">Code Beautify</a> - Beautify the code </p>
+<p><a href="https://jigsaw.w3.org/">W3C</a> - Code validator</p>
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+<h4>Image Editing</h4>
+<p><a href="https://www.adobe.com/products/photoshop/free-trial-download.html">Adobe Photoshop</a> - Image manipulation</p>
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
 
-Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+<h1>Deployment</h1>
+Deployed using terminal to GitHub. For hosting, I downloaded the website from GitPod and uploaded it to GitHub Pages
+
+<h1>Credits</h1>
+<p>https://tutorialzine.com/ - Gallery code</p>
+<p>https://bootsnipp.com/snippets/83Br - "Simlest Contact Form" by msurguy</p>
+
+<h1>Media<h1/>
+  <p>Photos are all my own work.</p>
