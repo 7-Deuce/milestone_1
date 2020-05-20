@@ -21,9 +21,6 @@ www.vastwavedigital.com</p>
 <img src="https://github.com/7-Deuce/milestone_1/blob/master/wireframes/home.png?raw=true"></img>
 https://github.com/7-Deuce/milestone_1/tree/master/wireframes
 
-<h1>Features<h1>
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
 <h1>Main Features</h1>
 
 **Gallery**
