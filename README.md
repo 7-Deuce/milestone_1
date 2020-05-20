@@ -77,6 +77,7 @@ Deployed using terminal to GitHub. For hosting, I downloaded the website from Gi
 <p>Photos are all my own work.</p>
 
 <h1>Ackownledgments</h1>
-https://www.reddit.com/r/webdev/ - Reddit Webdev community
-https://www.youtube.com/channel/UC1WxZFhq56xs1oxXH-XveSQ - Clever Techie
+<p>https://www.reddit.com/r/webdev/ - Reddit Webdev community</p>
+<p>https://www.youtube.com/channel/UC1WxZFhq56xs1oxXH-XveSQ - Clever Techie</p>
+<p>Kraftwerk for the inspiring music!</p>
 
