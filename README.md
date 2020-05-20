@@ -71,7 +71,12 @@ Deployed using terminal to GitHub. For hosting, I downloaded the website from Gi
 
 <h1>Credits</h1>
 <p>https://tutorialzine.com/ - Gallery code</p>
-<p>https://bootsnipp.com/snippets/83Br - "Simlest Contact Form" by msurguy</p>
+<p>https://bootsnipp.com/snippets/83Br - "Simplest Contact Form" by msurguy</p>
 
 <h1>Media</h1>
 <p>Photos are all my own work.</p>
+
+<h1>Ackownledgments</h1>
+https://www.reddit.com/r/webdev/ - Reddit Webdev community
+https://www.youtube.com/channel/UC1WxZFhq56xs1oxXH-XveSQ - Clever Techie
+
